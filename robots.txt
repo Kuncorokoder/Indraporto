@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kuncorokoder.github.io/Indraporto/sitemap.xml
